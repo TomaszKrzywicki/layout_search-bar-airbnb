@@ -1,0 +1,46 @@
+@font-face {
+  font-weight: 300;
+}
+
+body {
+  display: block;
+}
+
+.section {
+  width: 100%;
+  display: block;
+}
+
+input:hover {
+  box-shadow: 0 4px 4px #00000040;
+}
+
+input:focus {
+  text-shadow: 0 4px 4px #00000040;
+}
+
+.big {
+  height: 70px;
+  padding-top: 20px;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+}
+
+.small {
+  height: 42px;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+}
+
+.input {
+  background-image: url("Search.f4d21c8a.svg");
+  background-position: 0%;
+  background-repeat: no-repeat;
+  border: 1px solid #e1e7ed;
+  width: 100%;
+  padding-left: 62px;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
